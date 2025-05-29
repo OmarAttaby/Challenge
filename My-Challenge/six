@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        background-color: white;
+      
+        text-align: center;
+      }
+      #p1 {
+        font-size: 25px;
+      }
+    </style>
+  </head>
+  <body>
+
+
+</head>
+<body>
+
+
+    <p>do you love space?? 
+         <br/>
+     no<input type="range">yes
+
+        <br/>
+planets
+  <br>
+   black Holes
+         <br>
+the both
+     <br>
+other
+        <br>
+        <input type="text" id="input">
+        <br>
+
+
+
+if you are interesting in space try
+<a href="https://en.wikipedia.org/wiki/Space#:~:text=Space%20is%20a%20three%2Ddimensional,dimensional%20continuum%20known%20as%20spacetime." value="1">(wikipedia)</a>
+<br>
+<br>
+
+<progress value="0"></progress><input type="checkbox">
+<br>
+<progress value="0.1"></progress><input type="checkbox">
+<br>
+<progress value="0.2"></progress><input type="checkbox">
+<br>
+<progress value="0.3"></progress><input type="checkbox">
+<br>
+<progress value="0.4"></progress><input type="checkbox">
+<br>
+<progress value="0.5"></progress><input type="checkbox">
+<br>
+<progress value="0.6"></progress><input type="checkbox">
+<br>
+<progress value="0.7"></progress><input type="checkbox">
+<br>
+<progress value="0.8"></progress><input type="checkbox">
+<br>
+<progress value="0.9"></progress><input type="checkbox">
+<br>
+<progress value="1"></progress><input type="checkbox">
+<br>
+
+
+you love space about <input type="number" max="100" min="0"> %
+<br>
+
+</p>
+<fieldset>
+    <legend>personal details</legend>
+    <input type="text" placeholder="enter your name" id="text">
+    <br>
+    <input type="month" id="month">
+<br>
+<input type="submit" id="submit">
+<br>
+
+</fieldset>  
+   <a href="Second.html"></a> </p>
+  </body>
+</html>
