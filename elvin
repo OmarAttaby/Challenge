@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <table class="wikitable sortable static-row-numbers jquery-tablesorter">
+      <caption>
+        Languages with at least 50 million first-language speakers<sup
+          id="cite_ref-e28_7-1"
+          class="reference"
+          ><a href="#cite_note-e28-7"
+            ><span class="cite-bracket">[</span>7<span class="cite-bracket"
+              >]</span
+            ></a
+          ></sup
+        >
+      </caption>
+      <thead>
+        <tr>
+          <th
+            class="headerSort headerSortUp"
+            tabindex="0"
+            role="columnheader button"
+            title="Sort descending"
+          >
+            Language
+          </th>
+          <th
+            data-sort-type="number"
+            class="headerSort"
+            tabindex="0"
+            role="columnheader button"
+            title="Sort ascending"
+          >
+            Native speakers<br />(millions)
+          </th>
+          <th
+            class="headerSort"
+            tabindex="0"
+            role="columnheader button"
+            title="Sort ascending"
+          >
+            Language family
+          </th>
+          <th
+            class="headerSort"
+            tabindex="0"
+            role="columnheader button"
+            title="Sort ascending"
+          >
+            Branch
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:ben" class="mw-redirect" title="ISO 639:ben"
+              >Bengali</a
+            >
+          </td>
+          <td>242</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Indo-Aryan_languages" title="Indo-Aryan languages"
+              >Indo-Aryan</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:bho" class="mw-redirect" title="ISO 639:bho"
+              >Bhojpuri</a
+            >
+          </td>
+          <td>53</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Indo-Aryan_languages" title="Indo-Aryan languages"
+              >Indo-Aryan</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:arz" class="mw-redirect" title="ISO 639:arz"
+              >Egyptian Arabic</a
+            >
+          </td>
+          <td>84</td>
+          <td>
+            <a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages"
+              >Afroasiatic</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Semitic_languages" title="Semitic languages"
+              >Semitic</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:eng" class="mw-redirect" title="ISO 639:eng"
+              >English</a
+            >
+          </td>
+          <td>390</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Germanic_languages" title="Germanic languages"
+              >Germanic</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:fra" class="mw-redirect" title="ISO 639:fra"
+              >French</a
+            >
+          </td>
+          <td>74</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Romance_languages" title="Romance languages"
+              >Romance</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:guj" class="mw-redirect" title="ISO 639:guj"
+              >Gujarati</a
+            >
+          </td>
+          <td>58</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Indo-Aryan_languages" title="Indo-Aryan languages"
+              >Indo-Aryan</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:hau" class="mw-redirect" title="ISO 639:hau"
+              >Hausa</a
+            >
+          </td>
+          <td>58</td>
+          <td>
+            <a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages"
+              >Afroasiatic</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Chadic_languages" title="Chadic languages">Chadic</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:hin" class="mw-redirect" title="ISO 639:hin"
+              >Hindi</a
+            >
+          </td>
+          <td>345</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Indo-Aryan_languages" title="Indo-Aryan languages"
+              >Indo-Aryan</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:ind" class="mw-redirect" title="ISO 639:ind"
+              >Indonesian</a
+            >
+          </td>
+          <td>75</td>
+          <td>
+            <a
+              href="/wiki/Austronesian_languages"
+              title="Austronesian languages"
+              >Austronesian</a
+            >
+          </td>
+          <td>
+            <a
+              href="/wiki/Malayo-Polynesian_languages"
+              title="Malayo-Polynesian languages"
+              >Malayo-Polynesian</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:pes" class="mw-redirect" title="ISO 639:pes"
+              >Iranian Persian</a
+            >
+          </td>
+          <td>65</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Iranian_languages" title="Iranian languages"
+              >Iranian</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:ita" class="mw-redirect" title="ISO 639:ita"
+              >Italian</a
+            >
+          </td>
+          <td>63</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Romance_languages" title="Romance languages"
+              >Romance</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:jpn" class="mw-redirect" title="ISO 639:jpn"
+              >Japanese</a
+            >
+          </td>
+          <td>124</td>
+          <td>
+            <a href="/wiki/Japonic_languages" title="Japonic languages"
+              >Japonic</a
+            >
+          </td>
+          <td
+            data-sort-value=""
+            style="
+              background: var(--background-color-interactive, #ececec);
+              color: var(--color-base, inherit);
+              vertical-align: middle;
+              text-align: center;
+            "
+            class="table-na"
+          >
+            —
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:jav" class="mw-redirect" title="ISO 639:jav"
+              >Javanese</a
+            >
+          </td>
+          <td>69</td>
+          <td>
+            <a
+              href="/wiki/Austronesian_languages"
+              title="Austronesian languages"
+              >Austronesian</a
+            >
+          </td>
+          <td>
+            <a
+              href="/wiki/Malayo-Polynesian_languages"
+              title="Malayo-Polynesian languages"
+              >Malayo-Polynesian</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:kor" class="mw-redirect" title="ISO 639:kor"
+              >Korean</a
+            >
+          </td>
+          <td>81</td>
+          <td>
+            <a href="/wiki/Koreanic_languages" title="Koreanic languages"
+              >Koreanic</a
+            >
+          </td>
+          <td
+            data-sort-value=""
+            style="
+              background: var(--background-color-interactive, #ececec);
+              color: var(--color-base, inherit);
+              vertical-align: middle;
+              text-align: center;
+            "
+            class="table-na"
+          >
+            —
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:apc" class="mw-redirect" title="ISO 639:apc"
+              >Levantine Arabic</a
+            >
+          </td>
+          <td>58</td>
+          <td>
+            <a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages"
+              >Afroasiatic</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Semitic_languages" title="Semitic languages"
+              >Semitic</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:cmn" class="mw-redirect" title="ISO 639:cmn"
+              >Mandarin Chinese</a
+            >
+          </td>
+          <td>990</td>
+          <td>
+            <a
+              href="/wiki/Sino-Tibetan_languages"
+              title="Sino-Tibetan languages"
+              >Sino-Tibetan</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Sinitic_languages" title="Sinitic languages"
+              >Sinitic</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:mar" class="mw-redirect" title="ISO 639:mar"
+              >Marathi</a
+            >
+          </td>
+          <td>83</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Indo-Aryan_languages" title="Indo-Aryan languages"
+              >Indo-Aryan</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:por" class="mw-redirect" title="ISO 639:por"
+              >Portuguese</a
+            >
+          </td>
+          <td>250</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Romance_languages" title="Romance languages"
+              >Romance</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:rus" class="mw-redirect" title="ISO 639:rus"
+              >Russian</a
+            >
+          </td>
+          <td>145</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a
+              href="/wiki/Balto-Slavic_languages"
+              title="Balto-Slavic languages"
+              >Balto-Slavic</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:spa" class="mw-redirect" title="ISO 639:spa"
+              >Spanish</a
+            >
+          </td>
+          <td>484</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Romance_languages" title="Romance languages"
+              >Romance</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:deu" class="mw-redirect" title="ISO 639:deu"
+              >Standard German</a
+            >
+          </td>
+          <td>76</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Germanic_languages" title="Germanic languages"
+              >Germanic</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:tam" class="mw-redirect" title="ISO 639:tam"
+              >Tamil</a
+            >
+          </td>
+          <td>79</td>
+          <td>
+            <a href="/wiki/Dravidian_languages" title="Dravidian languages"
+              >Dravidian</a
+            >
+          </td>
+          <td>
+            <a
+              href="/wiki/South_Dravidian_languages"
+              title="South Dravidian languages"
+              >South</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:tel" class="mw-redirect" title="ISO 639:tel"
+              >Telugu</a
+            >
+          </td>
+          <td>83</td>
+          <td>
+            <a href="/wiki/Dravidian_languages" title="Dravidian languages"
+              >Dravidian</a
+            >
+          </td>
+          <td>
+            <a
+              href="/wiki/Dravidian_languages#Classification"
+              title="Dravidian languages"
+              >South-Central</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:tur" class="mw-redirect" title="ISO 639:tur"
+              >Turkish</a
+            >
+          </td>
+          <td>85</td>
+          <td>
+            <a href="/wiki/Turkic_languages" title="Turkic languages">Turkic</a>
+          </td>
+          <td>
+            <a href="/wiki/Oghuz_languages" title="Oghuz languages">Oghuz</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:urd" class="mw-redirect" title="ISO 639:urd"
+              >Urdu</a
+            >
+          </td>
+          <td>78</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Indo-Aryan_languages" title="Indo-Aryan languages"
+              >Indo-Aryan</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:vie" class="mw-redirect" title="ISO 639:vie"
+              >Vietnamese</a
+            >
+          </td>
+          <td>86</td>
+          <td>
+            <a
+              href="/wiki/Austroasiatic_languages"
+              title="Austroasiatic languages"
+              >Austroasiatic</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Vietic_languages" title="Vietic languages">Vietic</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:pnb" class="mw-redirect" title="ISO 639:pnb"
+              >Western Punjabi</a
+            >
+          </td>
+          <td>90</td>
+          <td>
+            <a
+              href="/wiki/Indo-European_languages"
+              title="Indo-European languages"
+              >Indo-European</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Indo-Aryan_languages" title="Indo-Aryan languages"
+              >Indo-Aryan</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:wuu" class="mw-redirect" title="ISO 639:wuu"
+              >Wu Chinese</a
+            >
+          </td>
+          <td>83</td>
+          <td>
+            <a
+              href="/wiki/Sino-Tibetan_languages"
+              title="Sino-Tibetan languages"
+              >Sino-Tibetan</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Sinitic_languages" title="Sinitic languages"
+              >Sinitic</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/wiki/ISO_639:yue" class="mw-redirect" title="ISO 639:yue"
+              >Yue Chinese</a
+            >
+          </td>
+          <td>85</td>
+          <td>
+            <a
+              href="/wiki/Sino-Tibetan_languages"
+              title="Sino-Tibetan languages"
+              >Sino-Tibetan</a
+            >
+          </td>
+          <td>
+            <a href="/wiki/Sinitic_languages" title="Sinitic languages"
+              >Sinitic</a
+            >
+          </td>
+        </tr>
+      </tbody>
+      <tfoot></tfoot>
+    </table>
+    <script>
+      (RLQ = window.RLQ || []).push(function () {
+        mw.config.set({
+          wgHostname: "mw-web.eqiad.main-6b86ff7657-tjwvw",
+          wgBackendResponseTime: 164,
+          wgPageParseReport: {
+            limitreport: {
+              cputime: "0.345",
+              walltime: "0.422",
+              ppvisitednodes: { value: 1445, limit: 1000000 },
+              postexpandincludesize: { value: 61778, limit: 2097152 },
+              templateargumentsize: { value: 1517, limit: 2097152 },
+              expansiondepth: { value: 13, limit: 100 },
+              expensivefunctioncount: { value: 5, limit: 500 },
+              "unstrip-depth": { value: 1, limit: 20 },
+              "unstrip-size": { value: 43187, limit: 5000000 },
+              entityaccesscount: { value: 0, limit: 500 },
+              timingprofile: [
+                "100.00%  352.626      1 -total",
+                " 32.71%  115.333      1 Template:Reflist",
+                " 22.71%   80.081      1 Template:Countries_and_languages_lists",
+                " 22.24%   78.432      1 Template:Navbox_with_collapsible_groups",
+                " 18.53%   65.340      2 Template:Cite_web",
+                " 13.83%   48.766      1 Template:Short_description",
+                "  9.80%   34.575      1 Template:Static_row_numbers",
+                "  9.69%   34.177      1 Template:Pp-semi-indef",
+                "  9.52%   33.581      6 Template:Cite_book",
+                "  8.12%   28.632      2 Template:Pagetype",
+              ],
+            },
+            scribunto: {
+              "limitreport-timeusage": { value: "0.196", limit: "10.000" },
+              "limitreport-memusage": { value: 5830037, limit: 52428800 },
+            },
+            cachereport: {
+              origin: "mw-web.codfw.main-745c4cfbd9-vd4bc",
+              timestamp: "20250513124924",
+              ttl: 2592000,
+              transientcontent: false,
+            },
+          },
+        });
+      });
+    </script>
+  </body>
+</html>
